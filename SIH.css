@@ -1,0 +1,238 @@
+#var{
+    
+    box-shadow: 0px 0px 20px black;
+    background-color:beige;
+    height: 50px;
+}
+.team{
+margin-left: 250px;
+    color: black;
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial;
+    font-weight: bold;
+}
+.pdfsub{
+    margin-top: 25px;
+    color: white;
+    background-color: black;
+
+}
+.Submitbutton{
+    margin-left: 10px;
+    margin-top: 25px;
+    color: black;
+    background-color: yellow; 
+}
+.one{
+    margin-top: 40px;
+    align-items: center;
+height: 440px;
+width: 750px;
+box-shadow: 0px 0px 10px black;
+}
+.two{
+    margin-top: 40px;
+   
+height: 440px;
+width: 750px;
+box-shadow: 0px 0px 10px black;
+}
+.homee{
+margin-left: 10px;
+}
+.aboutus{
+    margin-left: 150px;
+}
+.templatess{
+    margin-left: 170px;
+}
+*{
+   
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color:aliceblue;
+}
+.lastheading{
+    font-weight:bold;
+    font-size: 18px;
+   margin-left:140px ;
+    color: black;
+}
+.main{
+    text-align: center;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    
+}
+.main2{
+    text-align: center;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    
+}
+.Here{
+    text-align: center;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    
+}
+.llikemain{
+    
+    text-align: start;
+    align-items:start;
+    display:inline-block;
+    /* justify-content:space-around; */
+    
+}
+.user{
+    margin-left: 00px;
+}
+.user i{
+    padding: 5px;
+    margin-right: 3px;
+}
+.llikemain i{
+    text-align: center;
+    align-items: start;
+    margin: 90px;
+  margin-top: 20px;
+    /* padding: 20px; */
+    font-size: 30px;
+}
+.example button{
+    padding: 3px;
+    border-radius: 10%;
+    color: black;
+    background-color:burlywood;
+}
+.example button:hover{
+    background-color: green;
+    color: yellow;
+box-shadow: 0px 0px 5px black;
+}
+.rell{
+    margin-top: 7px;
+}
+.llikemain i:hover{
+    box-shadow: 0px 0px 20px red;
+}
+.sharee{
+    margin-bottom: 50px;
+    text-align: center;
+    align-items: start;
+    margin: 70px;
+  /* margin-top: 00px; */
+  color:black;
+    /* padding: 20px; */
+    font-size: 20px;
+}
+.likess{
+    margin: 10px;
+    /* align-items: start; */
+    text-align: start;
+    margin-left: 20px;
+}
+.someppt{
+    margin-top: 40px;
+   
+    height: 440px;
+    width: 750px;
+    box-shadow: 0px 0px 10px black;
+}
+.demo{
+   
+    text-align: center;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+}
+.para{
+    height: 250px;
+    width: 750px;
+    text-align: center;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    box-shadow: 0px 0px 10px black;
+ 
+}
+.input{
+    text-align: center;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+   
+}
+.example{
+    text-align: start;
+    align-items: center;
+    display:flex;
+    /* justify-content: center; */
+   
+}
+#examm{
+ 
+ margin-left: 300px;  
+}
+#conver{
+    color: white;
+    background-color: orangered;
+    padding: 3px;
+}
+#conver:hover{
+    background-color: green;
+    box-shadow: 0px 0px 5px black;
+}
+.input2{
+    
+        text-align: center;
+        align-items: center;
+        display:flex;
+        justify-content: center;   
+}
+.downloadd{        
+    text-align: center;
+    align-items: center;
+    display:flex;
+    justify-content: center;  
+margin-top: 30px;
+
+}
+.DownLoad{
+    color: white;
+    background-color: blue;
+    padding: 7px;
+}
+.DownLoad:hover{
+background-color: green;
+box-shadow: 0px 0px 5px black;
+}
+
+#options{
+    color: white;
+    background-color: black;
+    padding: 3px;
+}
+.Head{
+    margin-top: 20px;
+    text-align: center;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    font-family:sans-serif;
+}
+.trans{
+    margin-top: 40px;
+    text-align: center;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    font-family:sans-serif;  
+}
